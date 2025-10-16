@@ -1,6 +1,6 @@
 # Digital-Portfolio
-## Reflection: Business Communication Course
-
+## Reflection: Business Communication
+![Business Communication](https://raw.222308095.com/Digital-Portfolio/main/images/communication-screenshot.png)
 
 **Reflection:**
 During this short Business Communication course, I was able to strengthen my understanding of how effective communication influences professional relationships, teamwork, and overall workplace success. The course focused on both verbal and non-verbal communication, the appropriate use of tone and formality, and modern practices such as virtual meeting etiquette. Through completing the activities and assessments, I gained valuable insights into how clear and respectful communication can enhance productivity and create a positive business environment. The following STAR reflection outlines my experience and what I learned during this course.

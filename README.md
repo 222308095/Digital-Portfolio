@@ -1,4 +1,14 @@
 # Digital-Portfolio
+Name: Temhlanga Dube
+
+Student Number: 222308095
+
+Student email: 222308095@mycput.ac.za
+
+Project Presentation 3 Assignment Term 4
+
+This portfolio provides a comprehensive overview of the skills, knowledge, and experiences I have gained throughout my Work Readiness journey. It includes reflections on various courses such as Business Communication, Interview Skills, Professional Networking, and Workplace Etiquette. Each section highlights my learning progress and personal development, demonstrating how these experiences have strengthened my confidence, professionalism, and readiness to succeed in future career opportunities.
+
 ## Reflection: Business Communication
 
 **Reflection:**

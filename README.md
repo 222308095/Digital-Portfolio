@@ -9,8 +9,9 @@ Project Presentation 3 Assignment Term 4
 
 This portfolio provides a comprehensive overview of the skills, knowledge, and experiences I have gained throughout my Work Readiness journey. It includes reflections on various courses such as Business Communication, Interview Skills, Professional Networking, and Workplace Etiquette. Each section highlights my learning progress and personal development, demonstrating how these experiences have strengthened my confidence, professionalism, and readiness to succeed in future career opportunities.
 
-## Reflection: Business Communication
-
+## Business Communication
+### Evidence
+![Business Communication](Business%20Communication.png) 
 **Reflection:**
 During this short Business Communication course, I was able to strengthen my understanding of how effective communication influences professional relationships, teamwork, and overall workplace success. The course focused on both verbal and non-verbal communication, the appropriate use of tone and formality, and modern practices such as virtual meeting etiquette. Through completing the activities and assessments, I gained valuable insights into how clear and respectful communication can enhance productivity and create a positive business environment. The following STAR reflection outlines my experience and what I learned during this course.
 
@@ -22,7 +23,8 @@ During this short Business Communication course, I was able to strengthen my und
 
 **Result:** I successfully completed the course, achieving full completion status. More importantly, I developed a stronger appreciation for clear and respectful communication in business. I learned how to adapt my tone for different audiences, maintain professionalism in emails and meetings, and follow proper etiquette in virtual environments. This experience enhanced my confidence in professional communication and will be valuable in both academic and workplace settings.
 
-## Reflection: Interview Skills
+## Interview Skills
+### Evidence
 
 **Reflection:**
 The Interview Skills course provided me with valuable knowledge and techniques to prepare effectively for job interviews. It helped me understand what employers look for, how to communicate my strengths confidently, and how to handle challenging questions with professionalism. This course also emphasized the importance of body language, active listening, and post-interview etiquette. Through this experience, I gained both the confidence and the tools needed to perform better in interviews. The following STAR reflection outlines my learning journey and outcomes from this course.
@@ -40,7 +42,8 @@ I studied each module carefully, paying attention to examples of good and poor i
 After completing the course, I felt much more prepared and confident about future interviews. I developed practical strategies to handle different types of interview questions and improved my self-presentation skills. The course helped me understand that successful interviews are not only about qualifications but also about attitude, communication, and preparation. This learning experience has given me a strong foundation for future career opportunities.
 
 
-## Reflection: Mock Interview
+## Mock Interview
+### Evidence
 
 **Reflection:**
 The Mock Interview course was a valuable extension of what I learned in the Interview Skills course. It gave me the opportunity to take the theory I had studied — such as body language, tone, confidence, and structured answering — and apply it in a real-life scenario through a recorded video interview. This experience tested not only my communication skills but also my ability to remain calm and professional under pressure. It also helped me gain a clearer understanding of how to present myself effectively in front of an interviewer. The reflection below outlines my experience using the STAR method.
@@ -58,7 +61,8 @@ To prepare, I reviewed the key principles from the Interview Skills course, incl
 Completing the mock interview gave me valuable practical experience and insight into my own communication style. Watching myself on video helped me identify both strengths and areas for improvement — for instance, I noticed that I maintained good posture and eye contact but could work on slowing down my speech slightly to sound more composed. The experience significantly boosted my confidence and prepared me to approach real interviews with a more professional and focused mindset. Overall, the mock interview course was an essential step in bridging the gap between theoretical learning and practical application, helping me grow both personally and professionally.
 
 
-## Reflection: Professional Networking
+## Professional Networking
+### Evidence
 
 **Reflection:**
 The Professional Networking course was an insightful and practical learning experience that deepened my understanding of how professional relationships can positively shape career growth and development. It highlighted that networking is not just about meeting people or collecting contacts, but about creating meaningful, long-term connections based on trust, respect, and mutual value. I also learned how important it is to present myself professionally, maintain consistent communication, and approach networking with a genuine attitude of collaboration rather than self-interest. This course taught me the strategies and mindset needed to grow a supportive professional community that can lead to new opportunities, guidance, and learning experiences. Below is a reflection of my experience using the STAR method.
@@ -75,7 +79,8 @@ Throughout the course, I studied examples of effective and ineffective networkin
 **Result:**
 Completing the Professional Networking course gave me valuable knowledge and confidence in how to approach professional relationships more intentionally. I now understand the importance of being proactive, supportive, and genuine in my interactions. I also feel more prepared to use networking as a tool for learning, mentorship, and career advancement. This course has encouraged me to step out of my comfort zone, engage more with professionals in my field, and build relationships that are based on shared growth. Overall, it provided me with the foundational skills and mindset to network effectively both online and in person.
 
-## Reflection: Workplace Etiquette Course
+## Workplace Etiquette Course
+### Evidence
 
 **Reflection:**
 The Workplace Etiquette course was an essential part of understanding how to conduct myself professionally in different workplace settings. It focused on the behaviors, communication styles, and attitudes that contribute to a positive and respectful work environment. I learned that workplace etiquette is not just about following rules, but about demonstrating respect, cooperation, and professionalism in everything from communication to teamwork. The course also highlighted how small actions — like punctuality, tone, and body language — can significantly influence how others perceive you at work. This reflection summarizes my learning experience using the STAR method.

@@ -7,7 +7,7 @@ Student email: 222308095@mycput.ac.za
 
 Project Presentation 3 Assignment Term 4
 
-This portfolio provides a comprehensive overview of the skills, knowledge, and experiences I have gained throughout my Work Readiness journey. It includes reflections on various courses such as Business Communication, Interview Skills, Professional Networking, and Workplace Etiquette. Each section highlights my learning progress and personal development, demonstrating how these experiences have strengthened my confidence, professionalism, and readiness to succeed in future career opportunities.
+This portfolio provides a comprehensive overview of the skills, knowledge, and experiences I have developed throughout my Work Readiness journey. It includes detailed reflections on the different courses I completed, such as Business Communication, Interview Skills, Professional Networking, and Workplace Etiquette. Each section outlines my learning process, key takeaways, and how I applied these lessons to real-life professional situations. Through this journey, I have strengthened my communication, critical thinking, and interpersonal skills, all of which are essential for success in the modern workplace. Moreover, this experience has enhanced my confidence, professionalism, and adaptability in diverse work environments. Overall, this portfolio serves as a reflection of my growth and preparedness for future career opportunities.
 
 ## Business Communication
 ### Evidence
@@ -25,6 +25,7 @@ During this short Business Communication course, I was able to strengthen my und
 
 ## Interview Skills
 ### Evidence
+![Interview Skills](Interview%20Skills.png)
 
 **Reflection:**
 The Interview Skills course provided me with valuable knowledge and techniques to prepare effectively for job interviews. It helped me understand what employers look for, how to communicate my strengths confidently, and how to handle challenging questions with professionalism. This course also emphasized the importance of body language, active listening, and post-interview etiquette. Through this experience, I gained both the confidence and the tools needed to perform better in interviews. The following STAR reflection outlines my learning journey and outcomes from this course.
@@ -63,6 +64,7 @@ Completing the mock interview gave me valuable practical experience and insight 
 
 ## Professional Networking
 ### Evidence
+![Professional Networking](Professional%20Networking.png) 
 
 **Reflection:**
 The Professional Networking course was an insightful and practical learning experience that deepened my understanding of how professional relationships can positively shape career growth and development. It highlighted that networking is not just about meeting people or collecting contacts, but about creating meaningful, long-term connections based on trust, respect, and mutual value. I also learned how important it is to present myself professionally, maintain consistent communication, and approach networking with a genuine attitude of collaboration rather than self-interest. This course taught me the strategies and mindset needed to grow a supportive professional community that can lead to new opportunities, guidance, and learning experiences. Below is a reflection of my experience using the STAR method.
@@ -79,8 +81,9 @@ Throughout the course, I studied examples of effective and ineffective networkin
 **Result:**
 Completing the Professional Networking course gave me valuable knowledge and confidence in how to approach professional relationships more intentionally. I now understand the importance of being proactive, supportive, and genuine in my interactions. I also feel more prepared to use networking as a tool for learning, mentorship, and career advancement. This course has encouraged me to step out of my comfort zone, engage more with professionals in my field, and build relationships that are based on shared growth. Overall, it provided me with the foundational skills and mindset to network effectively both online and in person.
 
-## Workplace Etiquette Course
+## Workplace Etiquette
 ### Evidence
+![Workplace Ettiquette](Workplace%20Ettiquette)
 
 **Reflection:**
 The Workplace Etiquette course was an essential part of understanding how to conduct myself professionally in different workplace settings. It focused on the behaviors, communication styles, and attitudes that contribute to a positive and respectful work environment. I learned that workplace etiquette is not just about following rules, but about demonstrating respect, cooperation, and professionalism in everything from communication to teamwork. The course also highlighted how small actions — like punctuality, tone, and body language — can significantly influence how others perceive you at work. This reflection summarizes my learning experience using the STAR method.

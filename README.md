@@ -51,6 +51,8 @@ Completing the Interview Skills course helped me feel much more prepared and con
 ## Mock Interview
 ### Evidence
 
+https://github.com/wil-it2025/cv-tutorial-222308095/blob/main/6ff741d7-fc5b-4e6c-8d01-9896512d9e52.mov
+
 **Reflection:**
 The Mock Interview experience was one of the most valuable parts of my learning journey, as it allowed me to apply everything I had learned from the Interview Skills course in a real, practical setting. While the course provided the theoretical knowledge, the mock interview gave me the opportunity to put that knowledge into action and see how I perform under realistic conditions. It helped me understand how preparation, confidence, and communication all come together during an actual interview. Recording the session also gave me a chance to evaluate myself, identify areas where I performed well, and recognize what I could still improve on for future interviews.
 
